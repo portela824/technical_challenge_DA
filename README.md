@@ -1,3 +1,5 @@
+There is a PDF file with the name: "**Preliminary report-DA Challenge**"
+
 # Tech challenge
 
 <p align="center"> 
